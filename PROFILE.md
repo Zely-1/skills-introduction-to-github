@@ -1,2 +1,1 @@
-# the github tutorial
-## my first md
+Welcome to my GitHub profile!
